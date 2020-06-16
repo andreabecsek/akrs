@@ -1,8 +1,10 @@
 #include <Rcpp.h>
 
+// [[Rcpp::interfaces(cpp)]]
+
 using namespace Rcpp;
 
-//'#'Estimate conditional expectation using a Gaussian Kernel with changing bandwidth.
+//'Estimate conditional expectation using a Gaussian Kernel with changing bandwidth.
 //'
 //' @param y numeric vector
 //' @param x numeric vector

@@ -14,3 +14,4 @@ Description: One paragraph
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.4)
 LinkingTo: Rcpp
+RoxygenNote: 7.1.0
